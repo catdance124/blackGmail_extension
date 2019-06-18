@@ -1,0 +1,41 @@
+@charset "utf-8";
+
+/* main text background color */
+.bAn, .bAt, .bAt>tbody, .bAt>tbody>tr {
+  background-color:rgb(31, 30, 30) !important;
+}
+
+/* Title */
+.ha>.hP {
+    color: silver !important;
+}
+
+/* From */
+.hx .gD {
+    color: silver !important;
+}
+
+/* To */
+.hx .hb {
+    color: silver !important;
+}
+
+/* Receive time */
+.ig .g3, .hI .g3, .iv .g3 {
+    color: rgb(143, 143, 143) !important;
+}
+
+/* main text */
+.a3s {
+    color: silver !important;
+}
+
+/* reply message */
+.im {
+    color: rgb(196, 169, 197) !important;
+}
+
+/* reply bottun */
+.amr {
+    width: 0 !important;
+}
