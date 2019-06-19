@@ -2,7 +2,7 @@
 
 /* main text background color */
 .bAn, .bAt, .bAt>tbody, .bAt>tbody>tr {
-  background-color:rgb(31, 30, 30) !important;
+    background-color:rgb(31, 30, 30) !important;
 }
 
 /* Title */
@@ -30,12 +30,29 @@
     color: silver !important;
 }
 
-/* reply message */
+/* Quotation message */
 .im {
     color: rgb(196, 169, 197) !important;
 }
 
-/* reply bottun */
+/* reply button */
 .amr {
     width: 0 !important;
 }
+
+
+/* shortcut buttons backgroung */
+    /* star */
+    .bi4>.T-KT {
+        background-color: slategray !important;
+    }
+
+    /* reply & other  */
+    .acX>.L3.aaq, .acX>.L3.aap {
+        background-color: slategray !important;
+    }
+
+    /* printer & open new window */
+    .hk>.L3 {
+        background-color: slategray !important;
+    }
